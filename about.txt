@@ -1,0 +1,10 @@
+how the makefile works:
+
+CC: Compiler to use.
+CFLAGS: Compiler flags to use.
+OBJS: All object files that need to be linked together.
+mysync: Target to build the mysync executable.
+clean: Target to clean compiled files.
+
+How to use the makefile:
+literally just run `make` in the terminal. currently just prints helloworld.
